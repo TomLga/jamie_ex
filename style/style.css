@@ -14,7 +14,7 @@ td{
 }
 td:hover{
     background-color: rgba(129, 93, 93, 0.437);
-    transform: translateY(7px);
+    transform: translateY(7                         bm                           px);
 }
 button{
     background-color: inherit;

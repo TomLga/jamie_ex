@@ -36,6 +36,8 @@ sweet.innerHTML += `
     <td>${thingg.name}</td>
     <td>${thingg.price}</td>
     <td><img src="${thingg.img}"></td>
+    <td><button>ADD</button></td>
+    <td><button>Delete</button></td>
 </tr>`
 })
 
