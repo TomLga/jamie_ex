@@ -1,0 +1,26 @@
+:root{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(229, 221, 221);
+}
+img{
+    width: 12rem;
+}
+td{
+    font-size: 30px;
+    border: 1px solid rgb(0, 0, 0);
+    padding: 9px;
+}
+td:hover{
+    background-color: rgba(129, 93, 93, 0.437);
+    transform: translateY(7                         bm                           px);
+}
+button{
+    background-color: inherit;
+    background-color: rgb(210, 173, 125);
+    cursor: pointer;
+}
+button:hover{
+    transform: translateY(2px);
+}
